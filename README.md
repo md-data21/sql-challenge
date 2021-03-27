@@ -1,6 +1,7 @@
 # sql-challenge
 
 ## This is the Read Me file for the SQL project
+You can find the raw data CSVs, my schema code, my query code, and an image of the ERD I created in the Employee SQL folder. 
 
 ### In this project, I am acting as a data engineer for a company. My tasks are to: 
 ######
